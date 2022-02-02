@@ -1,0 +1,2 @@
+# Nagarro-TSQL-Assignment-Answers
+Nagarro TSQL MICROSOFT MANAGEMENT STUDIO ANSWERS
